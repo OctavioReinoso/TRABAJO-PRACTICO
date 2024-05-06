@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\TRABAJO PRACTICO.exe.config
+C:\Users\Alumno\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\TRABAJO PRACTICO.exe
+C:\Users\Alumno\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\TRABAJO PRACTICO.pdb
+C:\Users\Alumno\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\TRABAJO PRACTICO.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\TRABAJO PRACTICO.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\TRABAJO PRACTICO.exe
+C:\Users\Alumno\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\TRABAJO PRACTICO.pdb
